@@ -1,7 +1,7 @@
 {
   "short_name": "Kunjappan",
   "name": "Kunjappan",
-{
+
   "icons": [
     {
       "src": "android/android-launchericon-512-512.png",
@@ -452,7 +452,7 @@
       "sizes": "256x256"
     }
   ]
-}
+
   "start_url": "/index.html,./css/style.css",
   "background_color": "#fff",
   "display": "standalone",
