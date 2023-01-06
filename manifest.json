@@ -444,14 +444,18 @@
       "sizes": "80x80"
     },
     {
-      "src": "windows11/Square44x44Logo.altform-lightunplated_targetsize-96.png",
-      "sizes": "96x96"
-    },
-    {
-      "src": "windows11/Square44x44Logo.altform-lightunplated_targetsize-256.png",
-      "sizes": "256x256"
-    }
-  ]
+    "icons": [
+      {
+        "src": "/images/logo64.svg",
+        "type": "image/svg",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/images/logo510.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
 
   "start_url": "/index.html,./css/style.css",
   "background_color": "#fff",
