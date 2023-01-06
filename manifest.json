@@ -35,4 +35,16 @@
     "minimal-ui",
     "window-controls-overlay"
   ]
+"shortcuts": [
+    {
+      "name": "Kunjappan",
+      "url": "https://kunjappan.vercel.app/",
+      "icons": [
+        {
+          "src": "images/logo.png"
+        }
+      ],
+      "description": "Web desginer"
+    }
+  ]
 }
