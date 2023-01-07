@@ -29,7 +29,8 @@
       },
       {
          "src": "/images/logo510.png",
-         "sizes": "any"
+         "sizes": "512x512",
+         "purpose": "any"
     }
     ],
 
