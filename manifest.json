@@ -1,0 +1,53 @@
+{
+  "short_name": "Kunjappan",
+  "name": "Kunjappan",
+  "icons": [
+      {
+        "src": "/android/android-launchericon-192-192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/android/android-launchericon-512-512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      },
+      {
+        "src": "/ios/1024.png",
+        "type": "image/png",
+        "sizes": "1024x1024"
+      },
+      {
+        "src": "/ios/512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      },
+      {
+        "src": "/ios/192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
+    ],
+
+  "start_url": "/",
+  "background_color": "#fff",
+  "display": "standalone",
+  "theme_color": "#4145f1",
+  "description": "Kunjappan web designer.",
+  "dir": "auto",
+  "lang": "en",
+  "orientation": "any",
+  "prefer_related_applications": false,
+  "categories": [
+    "business",
+    "social"
+  ],
+  "scope": "/",
+  "display_override": [
+    "browser",
+    "fullscreen",
+    "standalone",
+    "minimal-ui",
+    "window-controls-overlay"
+  ]
+}
