@@ -28,10 +28,9 @@
         "sizes": "192x192"
       },
       {
-        "src": "/android/android-launchericon-512-512.png",
-        "type": "image/png",
-        "sizes": "any"
-      }
+         "src": "/images/logo510.png",
+         "sizes": "any"
+    }
     ],
 
   "start_url": "/",
